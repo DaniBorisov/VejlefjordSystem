@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "cosmosdb1": {
+      "restored": true,
+      "restoreTime": "2024-06-30T15:25:56.2209371Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-06-30T15:25:43.6046153Z"
+    },
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2024-06-30T15:31:43.0368789Z"
+    }
+  },
+  "parameters": {
+    "cosmosdb1.subscriptionId": {
+      "Name": "cosmosdb1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f622e4b3-6b26-496e-966e-b0fea694bf59"
+    },
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "HotelSystem"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "HotelSystem"
+    },
+    "cosmosdb1.resourceGroupName": {
+      "Name": "cosmosdb1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "HotelSystem"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f622e4b3-6b26-496e-966e-b0fea694bf59"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f622e4b3-6b26-496e-966e-b0fea694bf59"
+    }
+  }
+}

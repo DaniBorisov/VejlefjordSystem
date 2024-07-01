@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\vejlefjordapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\vejlefjordapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordapi\\vejlefjordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74C1F7A7-7DF1-4417-B9A5-676DF8BC9AC8}|VejlefjordAPI\\VejlefjordAPI.csproj|solutionrelative:vejlefjordapi\\vejlefjordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.ZipDeploy.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C2477E-02F6-4FC9-9BB6-74BA97E53CB3}|vejleFjordSystem\\vejleFjordSystem.csproj|e:\\projects\\veljefjord\\vejlefjordsystem\\vejlefjordsystem\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C2477E-02F6-4FC9-9BB6-74BA97E53CB3}|vejleFjordSystem\\vejleFjordSystem.csproj|solutionrelative:vejlefjordsystem\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\appsettings.Development.json",
+              "RelativeToolTip": "VejlefjordAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T16:19:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\appsettings.json",
+              "RelativeToolTip": "VejlefjordAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T16:19:17.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "VejlefjordAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:35:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\Program.cs",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\Program.cs",
+              "RelativeToolTip": "VejlefjordAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:23:54.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\WeatherForecast.cs",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "VejlefjordAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:32:24.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VejlefjordAPI.http",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\VejlefjordAPI.http",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\VejlefjordAPI.http",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\VejlefjordAPI.http",
+              "RelativeToolTip": "VejlefjordAPI\\VejlefjordAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-30T15:32:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VejlefjordAPI.csproj",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\VejlefjordAPI.csproj",
+              "RelativeDocumentMoniker": "VejlefjordAPI\\VejlefjordAPI.csproj",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\VejlefjordAPI\\VejlefjordAPI.csproj",
+              "RelativeToolTip": "VejlefjordAPI\\VejlefjordAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T15:24:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.Publish.ZipDeploy.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.ZipDeploy.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.ZipDeploy.targets",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwDkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-30T15:58:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\vejleFjordSystem\\Function1.cs",
+              "RelativeDocumentMoniker": "vejleFjordSystem\\Function1.cs",
+              "ToolTip": "E:\\Projects\\Veljefjord\\vejleFjordSystem\\vejleFjordSystem\\Function1.cs",
+              "RelativeToolTip": "vejleFjordSystem\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:20:42.186Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
